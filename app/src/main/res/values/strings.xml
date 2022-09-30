@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">drill</string>
+    <string-array name="array_drill">
+        <item>Видеокарты</item>
+        <item>Процессоры</item>
+        <item>ОЗУ</item>
+    </string-array>
+    <string-array name="array_card">
+        <item>RTX 4070</item>
+        <item>RTX 4080</item>
+        <item>RTX 4090</item>
+    </string-array>
+    <string-array name="array_proc">
+        <item>CORE I9-7960X</item>
+        <item>CORE I9-7980XE</item>
+        <item>CORE I9-10980XE EXTREME EDITION</item>
+    </string-array>
+    <string-array name="array_ram">
+        <item>G.SKILL Trident Z RGB F4-3200C14D-32GTZR</item>
+        <item>Samsung M378A4G43MB1-CTD</item>
+        <item>Thermaltake TOUGHRAM RGB R009D408GX2-4400C19A</item>
+    </string-array>
+</resources>
